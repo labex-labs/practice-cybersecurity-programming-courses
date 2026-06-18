@@ -5,13 +5,13 @@
 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
+<img width="128px" src="https://file.labex.io/upload/u/1991/N2PtsN4SW4rB.png">
 </div>
 
 Learn Cybersecurity from the ground up with a comprehensive learning path designed for beginners. This structured roadmap features hands-on Cybersecurity Courses covering fundamentals, network security, cryptography, and ethical hacking. Acquire practical, real-world skills through interactive exercises in a secure playground environment.
 
-|   Index | Name                                                                                                          | Difficulty   | Repo                                                                              | Practice                                                                          |
-|---------|---------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|   Index | Name                                                                                                          | Difficulty   | Repo                                                                             | Practice                                                                         |
+|---------|---------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 |      01 | [Cybersecurity Labs for Beginners](https://labex.io/courses/cybersecurity-labs-for-beginners)                 | Beginner     | [🔗 Repo](https://github.com/labex-labs/cybersecurity-labs-for-beginners)         | [🚀 Start Lab](https://labex.io/courses/cybersecurity-labs-for-beginners)         |
 |      02 | [CTF for Beginners](https://labex.io/courses/ctf-for-beginners)                                               | Beginner     | [🔗 Repo](https://github.com/labex-labs/ctf-for-beginners)                        | [🚀 Start Lab](https://labex.io/courses/ctf-for-beginners)                        |
 |      03 | [Kali Linux for Beginners](https://labex.io/courses/kali-linux-for-beginners)                                 | Beginner     | [🔗 Repo](https://github.com/labex-labs/kali-linux-for-beginners)                 | [🚀 Start Lab](https://labex.io/courses/kali-linux-for-beginners)                 |
