@@ -5,13 +5,13 @@
 🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
 <div align="center">
-<img width="128px" src="https://file.labex.io/path/Xke24vJbuOBk.png">
+<img width="128px" src="https://file.labex.io/upload/u/1991/N2PtsN4SW4rB.png">
 </div>
 
 Aprenda Cibersegurança do zero com um percurso de aprendizagem abrangente, concebido para iniciantes. Este roteiro estruturado inclui Cursos de Cibersegurança práticos que cobrem fundamentos, segurança de rede, criptografia e hacking ético. Adquira competências práticas e reais através de exercícios interativos num ambiente de testes seguro.
 
-|   Índice | Nome                                                                                                                             | Dificuldade   | Repo                                                                              | Prática                                                                                |
-|----------|----------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|   Índice | Nome                                                                                                                             | Dificuldade   | Repo                                                                             | Prática                                                                               |
+|----------|----------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |       01 | [Laboratórios de Cibersegurança para Iniciantes](https://labex.io/pt/courses/cybersecurity-labs-for-beginners)                   | Iniciante     | [🔗 Repo](https://github.com/labex-labs/cybersecurity-labs-for-beginners)         | [🚀 Iniciar Lab](https://labex.io/pt/courses/cybersecurity-labs-for-beginners)         |
 |       02 | [CTF para Iniciantes](https://labex.io/pt/courses/ctf-for-beginners)                                                             | Iniciante     | [🔗 Repo](https://github.com/labex-labs/ctf-for-beginners)                        | [🚀 Iniciar Lab](https://labex.io/pt/courses/ctf-for-beginners)                        |
 |       03 | [Kali Linux para Iniciantes](https://labex.io/pt/courses/kali-linux-for-beginners)                                               | Iniciante     | [🔗 Repo](https://github.com/labex-labs/kali-linux-for-beginners)                 | [🚀 Iniciar Lab](https://labex.io/pt/courses/kali-linux-for-beginners)                 |
